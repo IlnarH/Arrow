@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/header_title"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="20sp"
+        style="@style/FontShadow"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:clickable="false"
+        android:background="@drawable/header"
+        android:scaleType="centerInside"/>
+
+</RelativeLayout>

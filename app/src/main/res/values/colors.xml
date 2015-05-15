@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="light_grey">#eeeeee</color>
+    <color name="grey">#cccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#66cc00</color>
+    <color name="dark_green">#00cc00</color>
+    <color name="blue">#5396e0</color>
+
+</resources>
